@@ -1,0 +1,6 @@
+{
+  "name": "AeroTrack",
+  "description": "AI-driven running coach with structured training plans and live GPS tracking.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
